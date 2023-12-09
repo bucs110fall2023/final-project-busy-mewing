@@ -24,11 +24,11 @@ A program which has 3 simple games in one package! There is a basic but fast-pac
 ### Final Design
 
 ![final gui](assets/finalgui.jpg)
-![final gui](assets/final_gui1.jpg)
-![final gui](assets/final_gui2.jpg)
-![final gui](assets/final_gui3.jpg)
-![final gui](assets/final_gui4.jpg)
-![final gui](assets/final_gui5.jpg)
+![final gui](assets/final_gui1.jpeg)
+![final gui](assets/final_gui2.jpeg)
+![final gui](assets/final_gui3.jpeg)
+![final gui](assets/final_gui4.jpeg)
+![final gui](assets/final_gui5.jpeg)
 ## Program Design
 
 ### Features
