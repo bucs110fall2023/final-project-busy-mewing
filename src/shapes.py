@@ -54,3 +54,14 @@ class Shapes:
         self.rect_16]
 
         return rects_list
+    
+    def button_maker(self, screen, color, button_rect):
+
+        """
+        draws buttons on the screen using a given pygame rectangle object
+        args: (self, screen, color, button_rect) required, pygame display object, string, pygame rectangle object
+        return: (none)
+        """
+
+        pygame.draw.rect(screen, color, button_rect)
+        pygame.draw.rect(screen, "black", button_rect, 4)
